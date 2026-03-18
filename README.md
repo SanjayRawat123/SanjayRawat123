@@ -135,7 +135,7 @@ Responsibilities:
 
 # 🌐 Portfolio
 
-🔗 https://sanjayproj.com
+🔗[ https://sanjayproj.com](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fsanjayrawat123%2Egithub%2Eio%2Fsanjay_portfolio%2F&urlhash=u_BW&isSdui=true)
 
 ---
 
