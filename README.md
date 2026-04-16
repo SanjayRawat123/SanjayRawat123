@@ -111,25 +111,25 @@ Responsibilities:
 
 # 📊 GitHub Stats
 
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayRawat123\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayRawat123\&layout=compact\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SanjayRawat123\&theme=tokyonight)
 
 ---
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/SanjayRawat123/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
