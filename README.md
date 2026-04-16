@@ -129,7 +129,7 @@ Responsibilities:
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/SanjayRawat123/SanjayRawat123/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/SanjayRawat123/SanjayRawat123/output/github-snake.svg)
 
 ---
 
@@ -143,7 +143,6 @@ Responsibilities:
 
 * GitHub: [https://github.com/YOUR_USERNAME](https://github.com/SanjayRawat123)
 * Portfolio: [ https://sanjayproj.com](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fsanjayrawat123%2Egithub%2Eio%2Fsanjay_portfolio%2F&urlhash=u_BW&isSdui=true)
-
 
 ---
 
