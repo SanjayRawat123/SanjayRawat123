@@ -2,7 +2,7 @@
 
 ### 🚀 MEAN Stack Developer | Angular | Node.js | NestJS | DevOps
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjayrawat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SanjayRawat123)
 
 ---
 
