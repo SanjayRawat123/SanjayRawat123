@@ -129,7 +129,7 @@ Responsibilities:
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/SanjayRawat123/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SanjayRawat123/SanjayRawat123/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
